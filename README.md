@@ -1,7 +1,10 @@
 <!-- 🔥 PREMIUM HEADER (AUTO BANNER) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=220&section=header&text=Siddharth%20Kumar%20Rai&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
+<p align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Siddharth%20Kumar%20Rai&fontSize=38&fontColor=auto&animation=fadeIn&fontAlignY=35" />  
 </p>
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=220&section=header&text=Siddharth%20Kumar%20Rai&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
+</p> -->
 
 <!-- 🧠 TITLE -->
 <h2 align="center">🚀 MERN Stack Developer | 🤖 AI Agent & LLM Engineer</h2>
