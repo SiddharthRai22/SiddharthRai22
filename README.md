@@ -1,4 +1,26 @@
-<h1 align="center">Siddharth Kumar Rai</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <h1 align="center">Siddharth Kumar Rai</h1>
 
 <h3 align="center">
 🚀 MERN Stack Developer | 🤖 AI Agent & LLM Engineer
@@ -28,4 +50,4 @@ Building scalable full-stack applications integrated with intelligent AI agents 
   <a href="mailto:siddharthkumarrai23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p> -->
