@@ -7,6 +7,24 @@
 <h2 align="center">🚀 MERN Stack Developer | 🤖 AI Agent & LLM Engineer</h2>
 
 <p align="center">
+MERN Stack Developer and AI Agent Developer focused on building scalable, high-performance applications powered by LLMs, LangChain, and intelligent automation.
+</p>
+
+---
+
+### ⚡ Skills
+
+| 💻 Development | 🤖 AI & Automation |
+|---------------|-------------------|
+| MERN Stack (MongoDB, Express, React, Node.js) | AI Agents |
+| JavaScript | LLM (Large Language Models) |
+| HTML, CSS | LangChain |
+| MySQL | n8n Automation |
+| REST APIs | Workflow Automation |
+
+---
+
+<p align="center">
 Building scalable full-stack applications integrated with intelligent AI agents and large language models.
 </p>
 
