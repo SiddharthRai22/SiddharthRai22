@@ -16,7 +16,7 @@ Building scalable full-stack applications integrated with intelligent AI agents 
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,tailwind,nextjs,git,github" />
+  <img src="https://skillicons.dev/icons?i=mern,js,react,nodejs,express,mongodb,python,tailwind,nextjs,git,github" />
 </p>
 
 ---
