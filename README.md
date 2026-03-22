@@ -22,7 +22,7 @@ I am a MERN Stack Developer and AI Agent Engineer passionate about building scal
 ---
 
 <!-- 📊 PREMIUM STATS -->
-<h3 align="center">📊 GitHub Dashboard</h3>
+<!-- <h3 align="center">📊 GitHub Dashboard</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddharthRai22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
@@ -31,7 +31,7 @@ I am a MERN Stack Developer and AI Agent Engineer passionate about building scal
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SiddharthRai22&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+</p> -->
 
 ---
 
@@ -39,7 +39,7 @@ I am a MERN Stack Developer and AI Agent Engineer passionate about building scal
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddharth-kumar-rai-70621825a/">
+  <a href="www.linkedin.com/in/iam-siddharth">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
