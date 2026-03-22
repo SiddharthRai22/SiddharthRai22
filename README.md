@@ -7,13 +7,7 @@
 <h2 align="center">🚀 MERN Stack Developer | 🤖 AI Agent & LLM Engineer</h2>
 
 <p align="center">
-I am a MERN Stack Developer and AI Agent Engineer passionate about building scalable, high-performance web applications integrated with intelligent automation, LLM-powered systems, and seamless user experiences.
-</p>
-
----
-
-<p align="center">
-Building scalable full-stack applications integrated with intelligent AI agents and large language models.
+I am a MERN Stack Developer and AI Agent Engineer passionate about building scalable, high-performance web applications with clean and intuitive user experiences. I specialize in React.js, Node.js, Express, and MongoDB, and enjoy transforming ideas into real-world digital solutions.
 </p>
 
 ---
